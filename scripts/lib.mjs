@@ -14,8 +14,8 @@ const VARIANT_KEYS = ['dark', 'light'];
 const MAX_SCREENSHOT_BYTES = 500 * 1024;
 const MIN_WIDTH = 1200;
 const MAX_WIDTH = 4000;
-const ASPECT = 16 / 10;
-const ASPECT_TOLERANCE = 0.02;
+const MIN_ASPECT = 1.5;   // 3:2
+const MAX_ASPECT = 1.85;  // slightly wider than 16:9
 
 /** Parse PNG width/height from the IHDR chunk. Returns null if not a PNG. */
 export function pngSize(buf) {
@@ -138,8 +138,8 @@ export function validateThemeDir(dir) {
             errors.push(`${shot}: width ${size.width}px out of range ${MIN_WIDTH}-${MAX_WIDTH}px`);
           }
           const ratio = size.width / size.height;
-          if (Math.abs(ratio - ASPECT) > ASPECT_TOLERANCE) {
-            errors.push(`${shot}: aspect ratio ${ratio.toFixed(3)} must be 16:10 (±${ASPECT_TOLERANCE})`);
+          if (ratio < MIN_ASPECT || ratio > MAX_ASPECT) {
+            errors.push(`${shot}: aspect ratio ${ratio.toFixed(3)} out of range ${MIN_ASPECT}-${MAX_ASPECT} (landscape app window)`);
           }
         }
       }
