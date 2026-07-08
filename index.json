@@ -1,0 +1,24 @@
+{
+  "indexVersion": 1,
+  "generatedAt": "2026-07-08T09:01:39.975Z",
+  "themes": [
+    {
+      "id": "ocean-breeze",
+      "name": "Ocean Breeze",
+      "author": "fluxdown",
+      "version": "1.0.0",
+      "description": "A calm deep-sea palette with cyan accents. Official example theme.",
+      "tags": [
+        "dark",
+        "blue",
+        "example"
+      ],
+      "variants": {
+        "dark": {
+          "theme": "themes/ocean-breeze/theme.dark.json",
+          "screenshot": "themes/ocean-breeze/screenshot-dark.png"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Ocean Breeze",
+  "author": "fluxdown",
+  "appearance": "dark",
+  "colors": {
+    "surface": {
+      "background": "#0B1220",
+      "surface1": "#111B2E",
+      "surface2": "#18263E",
+      "surface3": "#20304C"
+    },
+    "element": {
+      "hover": "#1C2C46",
+      "selected": "#18263E",
+      "active": "#2E22D3EE"
+    },
+    "text": {
+      "primary": "#E6EDF7",
+      "secondary": "#93A4BD",
+      "muted": "#64778F",
+      "disabled": "#8064778F"
+    },
+    "border": {
+      "default": "#20304C",
+      "focused": "#22D3EE"
+    },
+    "accent": {
+      "color": "#22D3EE",
+      "hover": "#4DDEF4",
+      "background": "#2622D3EE",
+      "foreground": "#09090B"
+    },
+    "input": {
+      "background": "#0B1220",
+      "border": "#20304C",
+      "focusBorder": "#22D3EE",
+      "focusBackground": "#1422D3EE"
+    },
+    "dialog": {
+      "background": "#111B2E",
+      "barrier": "#50000000"
+    },
+    "switch": {
+      "track": "#2C3E5C",
+      "thumb": "#FFFFFF"
+    },
+    "shadow": "#000000",
+    "status": {
+      "success": "#34D399",
+      "warning": "#FBBF24",
+      "error": "#F87171"
+    }
+  },
+  "schemaVersion": 2
+}

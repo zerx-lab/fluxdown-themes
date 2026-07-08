@@ -1,0 +1,12 @@
+{
+  "manifestVersion": 1,
+  "id": "ocean-breeze",
+  "name": "Ocean Breeze",
+  "author": "fluxdown",
+  "version": "1.0.0",
+  "description": "A calm deep-sea palette with cyan accents. Official example theme.",
+  "tags": ["dark", "blue", "example"],
+  "variants": {
+    "dark": "theme.dark.json"
+  }
+}
