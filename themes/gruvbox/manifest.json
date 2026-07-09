@@ -1,0 +1,18 @@
+{
+  "manifestVersion": 1,
+  "id": "gruvbox",
+  "name": "Gruvbox",
+  "author": "fluxdown",
+  "version": "1.0.0",
+  "description": "Retro groove color scheme with warm, earthy tones. Dark and light variants.",
+  "tags": [
+    "dark",
+    "light",
+    "retro",
+    "warm"
+  ],
+  "variants": {
+    "dark": "theme.dark.json",
+    "light": "theme.light.json"
+  }
+}

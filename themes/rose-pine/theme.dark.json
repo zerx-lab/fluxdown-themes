@@ -1,0 +1,55 @@
+{
+  "name": "Rosé Pine",
+  "author": "fluxdown",
+  "appearance": "dark",
+  "colors": {
+    "surface": {
+      "background": "#191724",
+      "surface1": "#1F1D2E",
+      "surface2": "#26233A",
+      "surface3": "#403D52"
+    },
+    "element": {
+      "hover": "#26233A",
+      "selected": "#403D52",
+      "active": "#2EC4A7E7"
+    },
+    "text": {
+      "primary": "#E0DEF4",
+      "secondary": "#908CAA",
+      "muted": "#6E6A86",
+      "disabled": "#806E6A86"
+    },
+    "border": {
+      "default": "#403D52",
+      "focused": "#C4A7E7"
+    },
+    "accent": {
+      "color": "#C4A7E7",
+      "hover": "#D4BCF0",
+      "background": "#26C4A7E7",
+      "foreground": "#191724"
+    },
+    "input": {
+      "background": "#191724",
+      "border": "#403D52",
+      "focusBorder": "#C4A7E7",
+      "focusBackground": "#14C4A7E7"
+    },
+    "dialog": {
+      "background": "#1F1D2E",
+      "barrier": "#50000000"
+    },
+    "switch": {
+      "track": "#403D52",
+      "thumb": "#FFFFFF"
+    },
+    "shadow": "#000000",
+    "status": {
+      "success": "#9CCFD8",
+      "warning": "#F6C177",
+      "error": "#EB6F92"
+    }
+  },
+  "schemaVersion": 2
+}

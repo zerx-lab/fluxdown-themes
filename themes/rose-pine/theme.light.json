@@ -1,0 +1,55 @@
+{
+  "name": "Rosé Pine Dawn",
+  "author": "fluxdown",
+  "appearance": "light",
+  "colors": {
+    "surface": {
+      "background": "#FAF4ED",
+      "surface1": "#FFFAF3",
+      "surface2": "#F2E9E1",
+      "surface3": "#DFDAD9"
+    },
+    "element": {
+      "hover": "#F2E9E1",
+      "selected": "#DFDAD9",
+      "active": "#2E907AA9"
+    },
+    "text": {
+      "primary": "#575279",
+      "secondary": "#797593",
+      "muted": "#9893A5",
+      "disabled": "#809893A5"
+    },
+    "border": {
+      "default": "#DFDAD9",
+      "focused": "#907AA9"
+    },
+    "accent": {
+      "color": "#907AA9",
+      "hover": "#7C6693",
+      "background": "#26907AA9",
+      "foreground": "#FAF4ED"
+    },
+    "input": {
+      "background": "#FAF4ED",
+      "border": "#DFDAD9",
+      "focusBorder": "#907AA9",
+      "focusBackground": "#14907AA9"
+    },
+    "dialog": {
+      "background": "#FFFAF3",
+      "barrier": "#50000000"
+    },
+    "switch": {
+      "track": "#DFDAD9",
+      "thumb": "#FAF4ED"
+    },
+    "shadow": "#000000",
+    "status": {
+      "success": "#56949F",
+      "warning": "#EA9D34",
+      "error": "#B4637A"
+    }
+  },
+  "schemaVersion": 2
+}

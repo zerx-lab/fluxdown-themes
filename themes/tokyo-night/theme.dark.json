@@ -1,0 +1,55 @@
+{
+  "name": "Tokyo Night",
+  "author": "fluxdown",
+  "appearance": "dark",
+  "colors": {
+    "surface": {
+      "background": "#1A1B26",
+      "surface1": "#16161E",
+      "surface2": "#24283B",
+      "surface3": "#2F344D"
+    },
+    "element": {
+      "hover": "#24283B",
+      "selected": "#2F344D",
+      "active": "#2E7AA2F7"
+    },
+    "text": {
+      "primary": "#C0CAF5",
+      "secondary": "#A9B1D6",
+      "muted": "#565F89",
+      "disabled": "#80565F89"
+    },
+    "border": {
+      "default": "#2F344D",
+      "focused": "#7AA2F7"
+    },
+    "accent": {
+      "color": "#7AA2F7",
+      "hover": "#94B5F9",
+      "background": "#267AA2F7",
+      "foreground": "#16161E"
+    },
+    "input": {
+      "background": "#1A1B26",
+      "border": "#2F344D",
+      "focusBorder": "#7AA2F7",
+      "focusBackground": "#147AA2F7"
+    },
+    "dialog": {
+      "background": "#16161E",
+      "barrier": "#50000000"
+    },
+    "switch": {
+      "track": "#2F344D",
+      "thumb": "#FFFFFF"
+    },
+    "shadow": "#000000",
+    "status": {
+      "success": "#9ECE6A",
+      "warning": "#E0AF68",
+      "error": "#F7768E"
+    }
+  },
+  "schemaVersion": 2
+}

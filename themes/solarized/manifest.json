@@ -1,0 +1,18 @@
+{
+  "manifestVersion": 1,
+  "id": "solarized",
+  "name": "Solarized",
+  "author": "fluxdown",
+  "version": "1.0.0",
+  "description": "Ethan Schoonover's precision-engineered Solarized palette, dark and light.",
+  "tags": [
+    "dark",
+    "light",
+    "classic",
+    "low-contrast"
+  ],
+  "variants": {
+    "dark": "theme.dark.json",
+    "light": "theme.light.json"
+  }
+}

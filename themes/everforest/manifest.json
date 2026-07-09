@@ -1,0 +1,18 @@
+{
+  "manifestVersion": 1,
+  "id": "everforest",
+  "name": "Everforest",
+  "author": "fluxdown",
+  "version": "1.0.0",
+  "description": "Comfortable green forest palette designed to be easy on the eyes.",
+  "tags": [
+    "dark",
+    "light",
+    "green",
+    "warm"
+  ],
+  "variants": {
+    "dark": "theme.dark.json",
+    "light": "theme.light.json"
+  }
+}

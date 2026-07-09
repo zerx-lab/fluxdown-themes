@@ -1,0 +1,55 @@
+{
+  "name": "Everforest Light",
+  "author": "fluxdown",
+  "appearance": "light",
+  "colors": {
+    "surface": {
+      "background": "#FDF6E3",
+      "surface1": "#F4F0D9",
+      "surface2": "#EFEBD4",
+      "surface3": "#E6E2CC"
+    },
+    "element": {
+      "hover": "#EFEBD4",
+      "selected": "#E6E2CC",
+      "active": "#2E8DA101"
+    },
+    "text": {
+      "primary": "#5C6A72",
+      "secondary": "#708089",
+      "muted": "#939F91",
+      "disabled": "#80939F91"
+    },
+    "border": {
+      "default": "#E6E2CC",
+      "focused": "#8DA101"
+    },
+    "accent": {
+      "color": "#8DA101",
+      "hover": "#A4BB1F",
+      "background": "#268DA101",
+      "foreground": "#FDF6E3"
+    },
+    "input": {
+      "background": "#FDF6E3",
+      "border": "#E6E2CC",
+      "focusBorder": "#8DA101",
+      "focusBackground": "#148DA101"
+    },
+    "dialog": {
+      "background": "#F4F0D9",
+      "barrier": "#50000000"
+    },
+    "switch": {
+      "track": "#E6E2CC",
+      "thumb": "#FDF6E3"
+    },
+    "shadow": "#000000",
+    "status": {
+      "success": "#8DA101",
+      "warning": "#DFA000",
+      "error": "#F85552"
+    }
+  },
+  "schemaVersion": 2
+}

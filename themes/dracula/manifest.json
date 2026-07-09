@@ -1,0 +1,16 @@
+{
+  "manifestVersion": 1,
+  "id": "dracula",
+  "name": "Dracula",
+  "author": "fluxdown",
+  "version": "1.0.0",
+  "description": "The classic Dracula palette — dark background with vivid purple and pink accents.",
+  "tags": [
+    "dark",
+    "purple",
+    "classic"
+  ],
+  "variants": {
+    "dark": "theme.dark.json"
+  }
+}

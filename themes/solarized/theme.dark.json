@@ -1,0 +1,55 @@
+{
+  "name": "Solarized Dark",
+  "author": "fluxdown",
+  "appearance": "dark",
+  "colors": {
+    "surface": {
+      "background": "#002B36",
+      "surface1": "#073642",
+      "surface2": "#0B4251",
+      "surface3": "#134E5E"
+    },
+    "element": {
+      "hover": "#0B4251",
+      "selected": "#134E5E",
+      "active": "#2E268BD2"
+    },
+    "text": {
+      "primary": "#93A1A1",
+      "secondary": "#839496",
+      "muted": "#586E75",
+      "disabled": "#80586E75"
+    },
+    "border": {
+      "default": "#134E5E",
+      "focused": "#268BD2"
+    },
+    "accent": {
+      "color": "#268BD2",
+      "hover": "#4BA3DE",
+      "background": "#26268BD2",
+      "foreground": "#FDF6E3"
+    },
+    "input": {
+      "background": "#002B36",
+      "border": "#134E5E",
+      "focusBorder": "#268BD2",
+      "focusBackground": "#14268BD2"
+    },
+    "dialog": {
+      "background": "#073642",
+      "barrier": "#50000000"
+    },
+    "switch": {
+      "track": "#134E5E",
+      "thumb": "#FFFFFF"
+    },
+    "shadow": "#000000",
+    "status": {
+      "success": "#859900",
+      "warning": "#B58900",
+      "error": "#DC322F"
+    }
+  },
+  "schemaVersion": 2
+}

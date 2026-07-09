@@ -1,7 +1,135 @@
 {
   "indexVersion": 1,
-  "generatedAt": "2026-07-08T09:09:28.696Z",
+  "generatedAt": "2026-07-09T00:30:21.737Z",
   "themes": [
+    {
+      "id": "catppuccin",
+      "name": "Catppuccin",
+      "author": "fluxdown",
+      "version": "1.0.0",
+      "description": "Soothing pastel theme — Mocha (dark) and Latte (light) flavors.",
+      "tags": [
+        "dark",
+        "light",
+        "pastel",
+        "purple"
+      ],
+      "variants": {
+        "dark": {
+          "theme": "themes/catppuccin/theme.dark.json",
+          "screenshot": "themes/catppuccin/screenshot-dark.png"
+        },
+        "light": {
+          "theme": "themes/catppuccin/theme.light.json",
+          "screenshot": "themes/catppuccin/screenshot-light.png"
+        }
+      }
+    },
+    {
+      "id": "dracula",
+      "name": "Dracula",
+      "author": "fluxdown",
+      "version": "1.0.0",
+      "description": "The classic Dracula palette — dark background with vivid purple and pink accents.",
+      "tags": [
+        "dark",
+        "purple",
+        "classic"
+      ],
+      "variants": {
+        "dark": {
+          "theme": "themes/dracula/theme.dark.json",
+          "screenshot": "themes/dracula/screenshot-dark.png"
+        }
+      }
+    },
+    {
+      "id": "everforest",
+      "name": "Everforest",
+      "author": "fluxdown",
+      "version": "1.0.0",
+      "description": "Comfortable green forest palette designed to be easy on the eyes.",
+      "tags": [
+        "dark",
+        "light",
+        "green",
+        "warm"
+      ],
+      "variants": {
+        "dark": {
+          "theme": "themes/everforest/theme.dark.json",
+          "screenshot": "themes/everforest/screenshot-dark.png"
+        },
+        "light": {
+          "theme": "themes/everforest/theme.light.json",
+          "screenshot": "themes/everforest/screenshot-light.png"
+        }
+      }
+    },
+    {
+      "id": "github",
+      "name": "GitHub",
+      "author": "fluxdown",
+      "version": "1.0.0",
+      "description": "GitHub's Primer color system — familiar dark and light variants.",
+      "tags": [
+        "dark",
+        "light",
+        "minimal",
+        "blue"
+      ],
+      "variants": {
+        "dark": {
+          "theme": "themes/github/theme.dark.json",
+          "screenshot": "themes/github/screenshot-dark.png"
+        },
+        "light": {
+          "theme": "themes/github/theme.light.json",
+          "screenshot": "themes/github/screenshot-light.png"
+        }
+      }
+    },
+    {
+      "id": "gruvbox",
+      "name": "Gruvbox",
+      "author": "fluxdown",
+      "version": "1.0.0",
+      "description": "Retro groove color scheme with warm, earthy tones. Dark and light variants.",
+      "tags": [
+        "dark",
+        "light",
+        "retro",
+        "warm"
+      ],
+      "variants": {
+        "dark": {
+          "theme": "themes/gruvbox/theme.dark.json",
+          "screenshot": "themes/gruvbox/screenshot-dark.png"
+        },
+        "light": {
+          "theme": "themes/gruvbox/theme.light.json",
+          "screenshot": "themes/gruvbox/screenshot-light.png"
+        }
+      }
+    },
+    {
+      "id": "monokai-pro",
+      "name": "Monokai Pro",
+      "author": "fluxdown",
+      "version": "1.0.0",
+      "description": "Warm charcoal background with the famous Monokai neon accents.",
+      "tags": [
+        "dark",
+        "warm",
+        "classic"
+      ],
+      "variants": {
+        "dark": {
+          "theme": "themes/monokai-pro/theme.dark.json",
+          "screenshot": "themes/monokai-pro/screenshot-dark.png"
+        }
+      }
+    },
     {
       "id": "ocean-breeze",
       "name": "Ocean Breeze",
@@ -17,6 +145,88 @@
         "dark": {
           "theme": "themes/ocean-breeze/theme.dark.json",
           "screenshot": "themes/ocean-breeze/screenshot-dark.png"
+        }
+      }
+    },
+    {
+      "id": "one-dark",
+      "name": "One Dark",
+      "author": "fluxdown",
+      "version": "1.0.0",
+      "description": "Atom's iconic One Dark syntax palette, migrated to FluxDown.",
+      "tags": [
+        "dark",
+        "blue",
+        "classic"
+      ],
+      "variants": {
+        "dark": {
+          "theme": "themes/one-dark/theme.dark.json",
+          "screenshot": "themes/one-dark/screenshot-dark.png"
+        }
+      }
+    },
+    {
+      "id": "rose-pine",
+      "name": "Rosé Pine",
+      "author": "fluxdown",
+      "version": "1.0.0",
+      "description": "All natural pine, faux fur and a bit of soho vibes. Main (dark) and Dawn (light).",
+      "tags": [
+        "dark",
+        "light",
+        "pastel",
+        "purple"
+      ],
+      "variants": {
+        "dark": {
+          "theme": "themes/rose-pine/theme.dark.json",
+          "screenshot": "themes/rose-pine/screenshot-dark.png"
+        },
+        "light": {
+          "theme": "themes/rose-pine/theme.light.json",
+          "screenshot": "themes/rose-pine/screenshot-light.png"
+        }
+      }
+    },
+    {
+      "id": "solarized",
+      "name": "Solarized",
+      "author": "fluxdown",
+      "version": "1.0.0",
+      "description": "Ethan Schoonover's precision-engineered Solarized palette, dark and light.",
+      "tags": [
+        "dark",
+        "light",
+        "classic",
+        "low-contrast"
+      ],
+      "variants": {
+        "dark": {
+          "theme": "themes/solarized/theme.dark.json",
+          "screenshot": "themes/solarized/screenshot-dark.png"
+        },
+        "light": {
+          "theme": "themes/solarized/theme.light.json",
+          "screenshot": "themes/solarized/screenshot-light.png"
+        }
+      }
+    },
+    {
+      "id": "tokyo-night",
+      "name": "Tokyo Night",
+      "author": "fluxdown",
+      "version": "1.0.0",
+      "description": "A clean dark theme celebrating the lights of downtown Tokyo at night.",
+      "tags": [
+        "dark",
+        "blue",
+        "modern"
+      ],
+      "variants": {
+        "dark": {
+          "theme": "themes/tokyo-night/theme.dark.json",
+          "screenshot": "themes/tokyo-night/screenshot-dark.png"
         }
       }
     }

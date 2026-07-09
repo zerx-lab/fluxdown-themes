@@ -1,0 +1,55 @@
+{
+  "name": "Everforest Dark",
+  "author": "fluxdown",
+  "appearance": "dark",
+  "colors": {
+    "surface": {
+      "background": "#2D353B",
+      "surface1": "#343F44",
+      "surface2": "#3D484D",
+      "surface3": "#475258"
+    },
+    "element": {
+      "hover": "#3D484D",
+      "selected": "#475258",
+      "active": "#2EA7C080"
+    },
+    "text": {
+      "primary": "#D3C6AA",
+      "secondary": "#9DA9A0",
+      "muted": "#859289",
+      "disabled": "#80859289"
+    },
+    "border": {
+      "default": "#475258",
+      "focused": "#A7C080"
+    },
+    "accent": {
+      "color": "#A7C080",
+      "hover": "#B9CE9B",
+      "background": "#26A7C080",
+      "foreground": "#2D353B"
+    },
+    "input": {
+      "background": "#2D353B",
+      "border": "#475258",
+      "focusBorder": "#A7C080",
+      "focusBackground": "#14A7C080"
+    },
+    "dialog": {
+      "background": "#343F44",
+      "barrier": "#50000000"
+    },
+    "switch": {
+      "track": "#475258",
+      "thumb": "#FFFFFF"
+    },
+    "shadow": "#000000",
+    "status": {
+      "success": "#A7C080",
+      "warning": "#DBBC7F",
+      "error": "#E67E80"
+    }
+  },
+  "schemaVersion": 2
+}

@@ -1,0 +1,18 @@
+{
+  "manifestVersion": 1,
+  "id": "rose-pine",
+  "name": "Rosé Pine",
+  "author": "fluxdown",
+  "version": "1.0.0",
+  "description": "All natural pine, faux fur and a bit of soho vibes. Main (dark) and Dawn (light).",
+  "tags": [
+    "dark",
+    "light",
+    "pastel",
+    "purple"
+  ],
+  "variants": {
+    "dark": "theme.dark.json",
+    "light": "theme.light.json"
+  }
+}

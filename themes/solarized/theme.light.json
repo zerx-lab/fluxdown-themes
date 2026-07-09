@@ -1,0 +1,55 @@
+{
+  "name": "Solarized Light",
+  "author": "fluxdown",
+  "appearance": "light",
+  "colors": {
+    "surface": {
+      "background": "#FDF6E3",
+      "surface1": "#EEE8D5",
+      "surface2": "#E4DDC8",
+      "surface3": "#D8D0B8"
+    },
+    "element": {
+      "hover": "#EEE8D5",
+      "selected": "#E4DDC8",
+      "active": "#2E268BD2"
+    },
+    "text": {
+      "primary": "#586E75",
+      "secondary": "#657B83",
+      "muted": "#93A1A1",
+      "disabled": "#8093A1A1"
+    },
+    "border": {
+      "default": "#D8D0B8",
+      "focused": "#268BD2"
+    },
+    "accent": {
+      "color": "#268BD2",
+      "hover": "#1F78B4",
+      "background": "#26268BD2",
+      "foreground": "#FDF6E3"
+    },
+    "input": {
+      "background": "#FDF6E3",
+      "border": "#D8D0B8",
+      "focusBorder": "#268BD2",
+      "focusBackground": "#14268BD2"
+    },
+    "dialog": {
+      "background": "#EEE8D5",
+      "barrier": "#50000000"
+    },
+    "switch": {
+      "track": "#D8D0B8",
+      "thumb": "#FDF6E3"
+    },
+    "shadow": "#000000",
+    "status": {
+      "success": "#859900",
+      "warning": "#B58900",
+      "error": "#DC322F"
+    }
+  },
+  "schemaVersion": 2
+}

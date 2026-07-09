@@ -1,0 +1,55 @@
+{
+  "name": "GitHub Light",
+  "author": "fluxdown",
+  "appearance": "light",
+  "colors": {
+    "surface": {
+      "background": "#FFFFFF",
+      "surface1": "#F6F8FA",
+      "surface2": "#EAEEF2",
+      "surface3": "#D0D7DE"
+    },
+    "element": {
+      "hover": "#EAEEF2",
+      "selected": "#D0D7DE",
+      "active": "#2E0969DA"
+    },
+    "text": {
+      "primary": "#1F2328",
+      "secondary": "#424A53",
+      "muted": "#656D76",
+      "disabled": "#80656D76"
+    },
+    "border": {
+      "default": "#D0D7DE",
+      "focused": "#0969DA"
+    },
+    "accent": {
+      "color": "#0969DA",
+      "hover": "#0550AE",
+      "background": "#260969DA",
+      "foreground": "#FFFFFF"
+    },
+    "input": {
+      "background": "#FFFFFF",
+      "border": "#D0D7DE",
+      "focusBorder": "#0969DA",
+      "focusBackground": "#140969DA"
+    },
+    "dialog": {
+      "background": "#F6F8FA",
+      "barrier": "#50000000"
+    },
+    "switch": {
+      "track": "#D0D7DE",
+      "thumb": "#FFFFFF"
+    },
+    "shadow": "#000000",
+    "status": {
+      "success": "#1A7F37",
+      "warning": "#9A6700",
+      "error": "#CF222E"
+    }
+  },
+  "schemaVersion": 2
+}

@@ -1,0 +1,16 @@
+{
+  "manifestVersion": 1,
+  "id": "tokyo-night",
+  "name": "Tokyo Night",
+  "author": "fluxdown",
+  "version": "1.0.0",
+  "description": "A clean dark theme celebrating the lights of downtown Tokyo at night.",
+  "tags": [
+    "dark",
+    "blue",
+    "modern"
+  ],
+  "variants": {
+    "dark": "theme.dark.json"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "manifestVersion": 1,
+  "id": "github",
+  "name": "GitHub",
+  "author": "fluxdown",
+  "version": "1.0.0",
+  "description": "GitHub's Primer color system — familiar dark and light variants.",
+  "tags": [
+    "dark",
+    "light",
+    "minimal",
+    "blue"
+  ],
+  "variants": {
+    "dark": "theme.dark.json",
+    "light": "theme.light.json"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Dracula",
+  "author": "fluxdown",
+  "appearance": "dark",
+  "colors": {
+    "surface": {
+      "background": "#282A36",
+      "surface1": "#2F323F",
+      "surface2": "#343746",
+      "surface3": "#3B3E4F"
+    },
+    "element": {
+      "hover": "#343746",
+      "selected": "#44475A",
+      "active": "#2EBD93F9"
+    },
+    "text": {
+      "primary": "#F8F8F2",
+      "secondary": "#BFC7D5",
+      "muted": "#6272A4",
+      "disabled": "#806272A4"
+    },
+    "border": {
+      "default": "#3B3E4F",
+      "focused": "#BD93F9"
+    },
+    "accent": {
+      "color": "#BD93F9",
+      "hover": "#CFAEFB",
+      "background": "#26BD93F9",
+      "foreground": "#282A36"
+    },
+    "input": {
+      "background": "#282A36",
+      "border": "#3B3E4F",
+      "focusBorder": "#BD93F9",
+      "focusBackground": "#14BD93F9"
+    },
+    "dialog": {
+      "background": "#2F323F",
+      "barrier": "#50000000"
+    },
+    "switch": {
+      "track": "#3B3E4F",
+      "thumb": "#FFFFFF"
+    },
+    "shadow": "#000000",
+    "status": {
+      "success": "#50FA7B",
+      "warning": "#F1FA8C",
+      "error": "#FF5555"
+    }
+  },
+  "schemaVersion": 2
+}

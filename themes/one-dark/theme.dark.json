@@ -1,0 +1,55 @@
+{
+  "name": "One Dark",
+  "author": "fluxdown",
+  "appearance": "dark",
+  "colors": {
+    "surface": {
+      "background": "#282C34",
+      "surface1": "#21252B",
+      "surface2": "#2C313C",
+      "surface3": "#3E4451"
+    },
+    "element": {
+      "hover": "#2C313C",
+      "selected": "#3E4451",
+      "active": "#2E61AFEF"
+    },
+    "text": {
+      "primary": "#ABB2BF",
+      "secondary": "#9DA5B4",
+      "muted": "#5C6370",
+      "disabled": "#805C6370"
+    },
+    "border": {
+      "default": "#3E4451",
+      "focused": "#61AFEF"
+    },
+    "accent": {
+      "color": "#61AFEF",
+      "hover": "#82C0F3",
+      "background": "#2661AFEF",
+      "foreground": "#21252B"
+    },
+    "input": {
+      "background": "#282C34",
+      "border": "#3E4451",
+      "focusBorder": "#61AFEF",
+      "focusBackground": "#1461AFEF"
+    },
+    "dialog": {
+      "background": "#21252B",
+      "barrier": "#50000000"
+    },
+    "switch": {
+      "track": "#3E4451",
+      "thumb": "#FFFFFF"
+    },
+    "shadow": "#000000",
+    "status": {
+      "success": "#98C379",
+      "warning": "#E5C07B",
+      "error": "#E06C75"
+    }
+  },
+  "schemaVersion": 2
+}

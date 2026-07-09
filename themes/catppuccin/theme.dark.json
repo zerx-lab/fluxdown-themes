@@ -1,0 +1,55 @@
+{
+  "name": "Catppuccin Mocha",
+  "author": "fluxdown",
+  "appearance": "dark",
+  "colors": {
+    "surface": {
+      "background": "#1E1E2E",
+      "surface1": "#181825",
+      "surface2": "#313244",
+      "surface3": "#45475A"
+    },
+    "element": {
+      "hover": "#313244",
+      "selected": "#45475A",
+      "active": "#2ECBA6F7"
+    },
+    "text": {
+      "primary": "#CDD6F4",
+      "secondary": "#BAC2DE",
+      "muted": "#6C7086",
+      "disabled": "#806C7086"
+    },
+    "border": {
+      "default": "#45475A",
+      "focused": "#CBA6F7"
+    },
+    "accent": {
+      "color": "#CBA6F7",
+      "hover": "#DBBFFA",
+      "background": "#26CBA6F7",
+      "foreground": "#1E1E2E"
+    },
+    "input": {
+      "background": "#1E1E2E",
+      "border": "#45475A",
+      "focusBorder": "#CBA6F7",
+      "focusBackground": "#14CBA6F7"
+    },
+    "dialog": {
+      "background": "#181825",
+      "barrier": "#50000000"
+    },
+    "switch": {
+      "track": "#45475A",
+      "thumb": "#FFFFFF"
+    },
+    "shadow": "#000000",
+    "status": {
+      "success": "#A6E3A1",
+      "warning": "#F9E2AF",
+      "error": "#F38BA8"
+    }
+  },
+  "schemaVersion": 2
+}

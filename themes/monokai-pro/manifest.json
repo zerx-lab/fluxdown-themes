@@ -1,0 +1,16 @@
+{
+  "manifestVersion": 1,
+  "id": "monokai-pro",
+  "name": "Monokai Pro",
+  "author": "fluxdown",
+  "version": "1.0.0",
+  "description": "Warm charcoal background with the famous Monokai neon accents.",
+  "tags": [
+    "dark",
+    "warm",
+    "classic"
+  ],
+  "variants": {
+    "dark": "theme.dark.json"
+  }
+}

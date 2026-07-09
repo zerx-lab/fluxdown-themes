@@ -1,0 +1,55 @@
+{
+  "name": "Monokai Pro",
+  "author": "fluxdown",
+  "appearance": "dark",
+  "colors": {
+    "surface": {
+      "background": "#2D2A2E",
+      "surface1": "#221F22",
+      "surface2": "#403E41",
+      "surface3": "#4A484C"
+    },
+    "element": {
+      "hover": "#403E41",
+      "selected": "#4A484C",
+      "active": "#2EFFD866"
+    },
+    "text": {
+      "primary": "#FCFCFA",
+      "secondary": "#C1C0C0",
+      "muted": "#727072",
+      "disabled": "#80727072"
+    },
+    "border": {
+      "default": "#4A484C",
+      "focused": "#FFD866"
+    },
+    "accent": {
+      "color": "#FFD866",
+      "hover": "#FFE28A",
+      "background": "#26FFD866",
+      "foreground": "#2D2A2E"
+    },
+    "input": {
+      "background": "#2D2A2E",
+      "border": "#4A484C",
+      "focusBorder": "#FFD866",
+      "focusBackground": "#14FFD866"
+    },
+    "dialog": {
+      "background": "#221F22",
+      "barrier": "#50000000"
+    },
+    "switch": {
+      "track": "#4A484C",
+      "thumb": "#FFFFFF"
+    },
+    "shadow": "#000000",
+    "status": {
+      "success": "#A9DC76",
+      "warning": "#FC9867",
+      "error": "#FF6188"
+    }
+  },
+  "schemaVersion": 2
+}

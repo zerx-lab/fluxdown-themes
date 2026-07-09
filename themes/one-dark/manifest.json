@@ -1,0 +1,16 @@
+{
+  "manifestVersion": 1,
+  "id": "one-dark",
+  "name": "One Dark",
+  "author": "fluxdown",
+  "version": "1.0.0",
+  "description": "Atom's iconic One Dark syntax palette, migrated to FluxDown.",
+  "tags": [
+    "dark",
+    "blue",
+    "classic"
+  ],
+  "variants": {
+    "dark": "theme.dark.json"
+  }
+}

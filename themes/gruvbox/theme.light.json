@@ -1,0 +1,55 @@
+{
+  "name": "Gruvbox Light",
+  "author": "fluxdown",
+  "appearance": "light",
+  "colors": {
+    "surface": {
+      "background": "#FBF1C7",
+      "surface1": "#F2E5BC",
+      "surface2": "#EBDBB2",
+      "surface3": "#D5C4A1"
+    },
+    "element": {
+      "hover": "#EBDBB2",
+      "selected": "#D5C4A1",
+      "active": "#2EAF3A03"
+    },
+    "text": {
+      "primary": "#3C3836",
+      "secondary": "#504945",
+      "muted": "#928374",
+      "disabled": "#80928374"
+    },
+    "border": {
+      "default": "#D5C4A1",
+      "focused": "#AF3A03"
+    },
+    "accent": {
+      "color": "#AF3A03",
+      "hover": "#D65D0E",
+      "background": "#26AF3A03",
+      "foreground": "#FBF1C7"
+    },
+    "input": {
+      "background": "#FBF1C7",
+      "border": "#D5C4A1",
+      "focusBorder": "#AF3A03",
+      "focusBackground": "#14AF3A03"
+    },
+    "dialog": {
+      "background": "#F2E5BC",
+      "barrier": "#50000000"
+    },
+    "switch": {
+      "track": "#D5C4A1",
+      "thumb": "#FBF1C7"
+    },
+    "shadow": "#000000",
+    "status": {
+      "success": "#79740E",
+      "warning": "#B57614",
+      "error": "#9D0006"
+    }
+  },
+  "schemaVersion": 2
+}

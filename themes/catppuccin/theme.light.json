@@ -1,0 +1,55 @@
+{
+  "name": "Catppuccin Latte",
+  "author": "fluxdown",
+  "appearance": "light",
+  "colors": {
+    "surface": {
+      "background": "#EFF1F5",
+      "surface1": "#E6E9EF",
+      "surface2": "#CCD0DA",
+      "surface3": "#BCC0CC"
+    },
+    "element": {
+      "hover": "#CCD0DA",
+      "selected": "#BCC0CC",
+      "active": "#2E8839EF"
+    },
+    "text": {
+      "primary": "#4C4F69",
+      "secondary": "#5C5F77",
+      "muted": "#9CA0B0",
+      "disabled": "#809CA0B0"
+    },
+    "border": {
+      "default": "#BCC0CC",
+      "focused": "#8839EF"
+    },
+    "accent": {
+      "color": "#8839EF",
+      "hover": "#7326CF",
+      "background": "#268839EF",
+      "foreground": "#EFF1F5"
+    },
+    "input": {
+      "background": "#EFF1F5",
+      "border": "#BCC0CC",
+      "focusBorder": "#8839EF",
+      "focusBackground": "#148839EF"
+    },
+    "dialog": {
+      "background": "#E6E9EF",
+      "barrier": "#50000000"
+    },
+    "switch": {
+      "track": "#BCC0CC",
+      "thumb": "#EFF1F5"
+    },
+    "shadow": "#000000",
+    "status": {
+      "success": "#40A02B",
+      "warning": "#DF8E1D",
+      "error": "#D20F39"
+    }
+  },
+  "schemaVersion": 2
+}
